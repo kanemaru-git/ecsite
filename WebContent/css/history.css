@@ -1,0 +1,78 @@
+@charset "UTF-8";
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: orange;
+}
+h2{
+	margin-left: 20px;
+	margin-right: 20px;
+	border-bottom: 1px solid black;
+}
+h1{
+	text-align:center;
+}
+
+
+.item_form{
+/* 	text-align:center; */
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.item{
+	display:flex;
+	height:300px;
+	line-height:300px;
+	border-bottom: 1px solid black;
+
+}
+.item div{
+	display:block;
+	height: 300px;
+}
+.dimg{
+	position: relative;
+	flex-basis : 200px;
+}
+.img{
+	position: absolute;
+	 top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin:auto;
+}
+.dname{
+	text-align:center;
+	flex-basis : 250px;
+}
+.dprice{
+	text-align:right;
+	flex-basis : 100px;
+}
+.dcount{
+	flex-basis : 100px;
+}
+.dsum{
+	flex-basis : 100px;
+}
+.ddetails{
+	flex-basis : 50px;
+}
+.ddate{
+	flex-basis : 100px;
+}
+
+
+.emsg{
+	text-align:center;
+}
+.btn1{
+	text-align:right;
+	margin-right: 20px;
+}
+.btn2{
+	text-align:center;
+}

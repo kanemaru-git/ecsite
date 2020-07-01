@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.form{
+	margin-top: 60px;
+	text-align: center;
+}
+table{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left:auto;
+	margin-right:auto;
+	border-bottom: 2px solid black;
+}
+.serch{
+	display: flex;
+	margin-left:auto;
+	margin-right:auto;
+	background-color: rgba(100, 150, 230,1);
+}

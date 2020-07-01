@@ -1,0 +1,18 @@
+@charset "UTF-8";
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(100, 200, 230, 1);
+}
+form{
+	text-align: center;
+}
+table{
+	margin-left:auto;
+	margin-right:auto;
+}
+div{
+	border-top: 2px solid black;
+	margin-top: 5px;
+	padding-top: 5px;
+}

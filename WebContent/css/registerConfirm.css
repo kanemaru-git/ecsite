@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: orange;
+}
+form{
+	text-align: center;
+}
+table{
+	width: 400px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left:auto;
+	margin-right:auto;
+}
+div{
+	border-top: 2px solid black;
+	margin-top: 5px;
+	padding-top: 5px;
+}
+h2{
+	margin-left: 20px;
+	margin-right: 20px;
+	border-bottom: 1px solid black;
+}
